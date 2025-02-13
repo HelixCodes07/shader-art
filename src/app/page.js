@@ -46,7 +46,7 @@ export default function Home() {
         <div className="border border-dotted min-w-[200px] p-3 hover:bg-black hover:text-white hover:border-hidden hover:rounded-md transition-all ease-in-out duration-300">
           <span className="font-secondary ~text-lg/4xl ">
             <span className="font-primary pr-4">1.</span>
-            <Link href={"/shader"}>View Shader Art</Link>
+            <Link href={"/shader"}>View Talha Shader Art</Link>
           </span>
         </div>
       </main>
